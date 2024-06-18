@@ -60,3 +60,6 @@ The JavaScript file (app.js) adds dynamic functionality to the todo list:
 Conclusion
 
 This simple todo list application demonstrates the fundamental concepts of frontend web development using HTML, CSS, and JavaScript.
+
+![Screenshot from 2024-06-18 23-37-00](https://github.com/AkshithaDusa8/CODTECH-Task1/assets/173191138/82bf940b-5f68-44e6-94c5-6443dcd3de9a)
+
